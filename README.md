@@ -3,7 +3,7 @@ Interesting lists I generated or scraped somewhere
 
 ## Disclaimer
 Most of those lists I scraped from websites. So I can't guarantee that they are open source and usable without
- restrictions. If you own content I provide here please don't sue me - just write me a message and I will remove
+ restrictions. If you own content I provide here please don't sue me - just write me a message, and I will remove
  your content :).
 
 ## Index
