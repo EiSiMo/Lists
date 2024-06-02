@@ -11,3 +11,4 @@ Most of those lists I scraped from websites. So I can't guarantee that they are 
 |---|---|---|---|---|
 |`60000_german_last_names.txt`|522 KB|58851 real german last names from a online phone book|https://www.dastelefonbuch.de/|12.06.2020|
 |`all_german_car_mark_place_codes.txt`|4 KB|every place code from car marks in germany|https://www.fahrerbewertung.de/ortsliste|25.01.2021|
+|`7700_german_anagrams.txt`|158 KB|all german anagrams|https://github.com/davidak/wortliste/blob/master/wortliste.txt|02.06.2024|
